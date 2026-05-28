@@ -1,7 +1,9 @@
 Business Sales Performance Analytics
+
 Future Interns - Task 01 | Data Science & Analytics
 
 Overview
+
 This project analyzes real-world business sales data to identify revenue trends, top-selling products, customer behavior, and country-wise sales performance. The analysis helps businesses make data-driven decisions and improve sales strategies.
 
 Objectives
@@ -32,6 +34,7 @@ Features
 * Correlation Heatmap
 
 Project Workflow
+
 1.Upload dataset in Google Colab
 2.Clean and preprocess data
 3.Create revenue calculations
@@ -46,7 +49,9 @@ Results
 * Generated business insights for decision-making
 
 Conclusion
+
 This project demonstrates practical data analytics skills using Python and helps understand how businesses use sales analytics to improve performance and profitability.
 
 Author
+
 Pushpalatha Pandiri
